@@ -71,6 +71,11 @@ nav:nth-child(1) {
     float:left;
 }
 
+.domoForm input[type=number] {
+    float:left;
+    width: 50px;
+}
+
 .makeDomoSubmit {
     transition: background-color 0.4s ease;
     display: inline;
